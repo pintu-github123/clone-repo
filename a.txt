@@ -4,6 +4,7 @@ third line
 fourth line
 fifth line
 sixth line
+seventh line
 
 user-2
 -------
