@@ -1,6 +1,9 @@
 first line
 second line
 
+
 user-2
 -------
 first line
+
+
